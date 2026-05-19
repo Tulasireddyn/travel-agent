@@ -1,5 +1,16 @@
-streamlit==1.38.0 
-langchain-community==0.2.16 
-langgraph==0.2.14 
-fpdf==1.7.2 
-python-dotenv==1.0.1
+fastapi
+uvicorn
+langchain-community
+langgraph
+langchain-openai
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+fpdf
+streamlit
+# Added these as they are commonly needed for langgraph/langchain
+pydantic
+langchain-core
+google-search-results

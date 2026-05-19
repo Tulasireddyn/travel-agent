@@ -1,5 +1,24 @@
-travelenv/*
-__pycache__/*
-agents/__pycache__/*
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+travelenv/
+
+# Databases
+*.db
+*.sqlite3
+
+# Environments
 .env
+.env.local
+
+# Next.js frontend dependencies and build directories (redundancy check)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Other local files
 travel_app_full_code.py

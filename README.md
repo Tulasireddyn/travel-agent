@@ -95,5 +95,4 @@ This project is open-source. See the [LICENSE](LICENSE) file for details (if app
 - Built with Streamlit, LangGraph, LangChain, and Ollama.
 - Thanks to the open-source community for tools and libraries!
 
-## Contact
-For questions or support, reach out to me on LinkedIn: [Vikram Bhat](https://www.linkedin.com/in/vikrambhat249/) or open an issue in the repository.
+
